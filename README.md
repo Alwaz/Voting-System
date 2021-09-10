@@ -56,6 +56,6 @@ In the project, we aimed to use safe and secure environments, hence the followin
 
 - [Rohat Iftikhar](https://github.com/Rohat-Iftikhar)
 - [Alwaz Qazi](https://github.com/Alwaz)
-- [Muntaha Memon]
-- [Unsa Memon]
+- Muntaha Memon
+- Unsa Memon
 
