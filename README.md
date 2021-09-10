@@ -54,8 +54,8 @@ In the project, we aimed to use safe and secure environments, hence the followin
 
   ## Contributors
 
-- [Rohat Iftikhar](https://github.com/Alwaz)
-- [Alwaz Qazi](https://github.com/hrhm47)
-- [Muntaha Memon](https://github.com/Marwa-Khan)
-- [Unsa Memon](https://github.com/mudasser-2772)
+- [Rohat Iftikhar](https://github.com/Rohat-Iftikhar)
+- [Alwaz Qazi](https://github.com/Alwaz)
+- [Muntaha Memon]
+- [Unsa Memon]
 
