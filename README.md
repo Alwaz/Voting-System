@@ -15,6 +15,9 @@ The project we decided to embark on and create was an Online Voting System. It e
 * Pichon app
 
 
+## Screenshots
+
+![Admin Login](./images/adminlogin.png)
 
   
 
@@ -25,7 +28,7 @@ The project we decided to embark on and create was an Online Voting System. It e
 The admin section first displays a Login Panel. This feature only has a login button and requires the user to input the details of their account, which are originally stored in the database. The absence of a Sign Up button restricts voters from creating their own accounts and accessing sensitive information. Once the login information has been matched correctly, a window displaying admin options. The options include Show Statistics, View Records, Terminate/Enable voting. These options are strictly for Admin use and thus is the reason why they are limited within a private area which can only be accessed if someone has the correct credentials. Moving on, the function view records makes use of a JTable and uses the MySQL database to retrieve the information given in the table about the voter. Whereas, the bar chart uses JFreeChart to dynamically manage and display the data in order to show statistics with concern to the parties given. Last but not least, the terminate/enable voting allow the admin to put a halt on any further voting or allow it. 
 
 
-# images
+[]
 
 ### Voters Section
 The voter section is far more complexed than the admin one. Its features are advanced and efficient. However, unlike the admin section, the voter section does not require the user to enter any login information but rather gives them options to choose from. Show stats is one of those options, where users can view statistics in regard to the voting panel. The next option is the Proceed to vote option, which is the basic fundamental of the voting system. The user is first asked to insert their personal information as well as cast their vote. With respect to this process, if they have filled each text field correctly and according to the criteria set, then their vote will be submitted. Once a vote has been submitted, users have to reenter their information if they wish to preview it and can also receive that information through an email. 
